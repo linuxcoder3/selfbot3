@@ -259,6 +259,7 @@ function create_config( )
     "poker",
     "ctrl",
     "echo",
+    "share",
     "chat"
     },
     sudo_users = {205152033,122378210},--Sudo users

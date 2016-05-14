@@ -262,7 +262,7 @@ function create_config( )
     "share",
     "chat"
     },
-    sudo_users = {205152033,122378210},--Sudo users
+    sudo_users = {205152033,148598746},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Sbss Bot V3

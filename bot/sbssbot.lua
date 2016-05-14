@@ -255,12 +255,9 @@ function create_config( )
     "time",
     "webshot",
     "welcome",
-    "heloo",
-    "poker",
-    "ctrl",
     "echo",
-    "share",
-    "chat"
+    "share"
+   
     },
     sudo_users = {205152033,148598746},--Sudo users
     disabled_channels = {},
